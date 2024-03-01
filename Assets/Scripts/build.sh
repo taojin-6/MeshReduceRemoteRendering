@@ -1,0 +1,1 @@
+g++ -o MeshReceiver.so -fPIC -shared MeshReceiver.cpp
