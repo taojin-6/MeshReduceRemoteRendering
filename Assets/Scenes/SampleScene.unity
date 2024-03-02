@@ -492,7 +492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TextureWidth: 7680
   TextureHeight: 1080
-  Host: 192.168.3.199
+  Host: 192.168.2.234
   Port: 33669
 --- !u!1 &832575517
 GameObject:
